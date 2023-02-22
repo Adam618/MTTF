@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82dd1fef-bbbe-4e6e-88d4-6d22d894593a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="280ZPIGnpkBdulIh7KNEThC7uKd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="credentialsType com.jetbrains.python.remote.PyCreateRemoteInterpreterDialog$PyCreateRemoteSdkForm" value="Web Deployment" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Informer2020-main-2.0" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Competition\temperature_prediction\code\Informer2020-main-1.0\checkpoints\informer_custom_ftS_dm2048_dtt_q_500pa_ieTrue_sl8_ll4_pl8_lg0_dm2048_nh8_el2_dl2_df2048_atprob_fc5_ebtimeF_dtTrue_mxTrue_test_0" />
+      <recent name="D:\Competition\temperature_prediction\code\Informer2020-main-1.0\checkpoints" />
+      <recent name="D:\Competition\temperature_prediction\code\Informer2020-main\mae_1.23" />
+      <recent name="D:\Competition\temperature_prediction\code\Informer2020-main\data\tem_pre" />
+      <recent name="D:\python_projects\project_code\Informer2020-main\data\tem_pre" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python_projects\project_code\Informer2020-main\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.execute">
+    <configuration name="Informer2020-main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\cy511\.conda\envs\mypytorchenv\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_loader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Informer2020-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/data_loader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="encoder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Informer2020-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/encoder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="execute" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Informer2020-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/execute.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_informer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Informer2020-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_informer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="visual" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Informer2020-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/visual.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Informer2020-main" />
+      <item itemvalue="Python.visual" />
+      <item itemvalue="Python.execute" />
+      <item itemvalue="Python.main_informer" />
+      <item itemvalue="Python.data_loader" />
+      <item itemvalue="Python.encoder" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.execute" />
+        <item itemvalue="Python.encoder" />
+        <item itemvalue="Python.data_loader" />
+        <item itemvalue="Python.main_informer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82dd1fef-bbbe-4e6e-88d4-6d22d894593a" name="Changes" comment="" />
+      <created>1650355437240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650355437240</updated>
+      <workItem from="1650355438884" duration="272000" />
+      <workItem from="1650355722211" duration="8544000" />
+      <workItem from="1650372404529" duration="28172000" />
+      <workItem from="1650504368146" duration="13528000" />
+      <workItem from="1650545829923" duration="4604000" />
+      <workItem from="1650592324597" duration="622000" />
+      <workItem from="1650592986334" duration="7773000" />
+      <workItem from="1650607685100" duration="3824000" />
+      <workItem from="1650678796326" duration="10855000" />
+      <workItem from="1650721487553" duration="457000" />
+      <workItem from="1650767410180" duration="5020000" />
+      <workItem from="1650893919190" duration="666000" />
+      <workItem from="1650941597792" duration="1804000" />
+      <workItem from="1651023156138" duration="578000" />
+      <workItem from="1651023747746" duration="16718000" />
+      <workItem from="1651290987606" duration="339000" />
+      <workItem from="1651291338042" duration="10472000" />
+      <workItem from="1651457092176" duration="21000" />
+      <workItem from="1651457159031" duration="763000" />
+      <workItem from="1651457936791" duration="311000" />
+      <workItem from="1651458644329" duration="142000" />
+      <workItem from="1651459043427" duration="2128000" />
+      <workItem from="1651473210524" duration="429000" />
+      <workItem from="1651479349209" duration="1793000" />
+      <workItem from="1651822950723" duration="842000" />
+      <workItem from="1652686291683" duration="21000" />
+      <workItem from="1652772547670" duration="18000" />
+      <workItem from="1660054620332" duration="725000" />
+      <workItem from="1660055360874" duration="4283000" />
+      <workItem from="1660097949827" duration="1924000" />
+      <workItem from="1660121017904" duration="662000" />
+      <workItem from="1660122336599" duration="7086000" />
+      <workItem from="1660139535946" duration="14003000" />
+      <workItem from="1660355816321" duration="21000" />
+      <workItem from="1660634521121" duration="154000" />
+      <workItem from="1661327860152" duration="4505000" />
+      <workItem from="1661499639438" duration="733000" />
+      <workItem from="1661587766631" duration="2495000" />
+      <workItem from="1661653195268" duration="2230000" />
+      <workItem from="1661655457672" duration="387000" />
+      <workItem from="1661655849406" duration="19214000" />
+      <workItem from="1661689756009" duration="8433000" />
+      <workItem from="1661741094193" duration="73000" />
+      <workItem from="1661741169953" duration="32962000" />
+      <workItem from="1661830184807" duration="20503000" />
+      <workItem from="1661867236833" duration="1398000" />
+      <workItem from="1661927788813" duration="13767000" />
+      <workItem from="1662100394384" duration="1137000" />
+      <workItem from="1662103270043" duration="1050000" />
+      <workItem from="1662104555394" duration="806000" />
+      <workItem from="1662165431523" duration="34952000" />
+      <workItem from="1662256884435" duration="11758000" />
+      <workItem from="1662343430922" duration="5261000" />
+      <workItem from="1662882017148" duration="8501000" />
+      <workItem from="1662964727457" duration="5296000" />
+      <workItem from="1663038648309" duration="4417000" />
+      <workItem from="1663045346075" duration="4900000" />
+      <workItem from="1663154732650" duration="1372000" />
+      <workItem from="1663732079922" duration="4473000" />
+      <workItem from="1663742335098" duration="20000" />
+      <workItem from="1663745552562" duration="79000" />
+      <workItem from="1663749887965" duration="7485000" />
+      <workItem from="1663895889265" duration="4193000" />
+      <workItem from="1664072518352" duration="1306000" />
+      <workItem from="1664088081087" duration="7007000" />
+      <workItem from="1664367818205" duration="1908000" />
+      <workItem from="1664845051894" duration="4144000" />
+      <workItem from="1664871543611" duration="8590000" />
+      <workItem from="1664890974986" duration="1065000" />
+      <workItem from="1664931293835" duration="3356000" />
+      <workItem from="1665035418288" duration="13000" />
+      <workItem from="1665821209993" duration="605000" />
+      <workItem from="1665835328072" duration="60000" />
+      <workItem from="1665902115158" duration="1079000" />
+      <workItem from="1665908249599" duration="27000" />
+      <workItem from="1666006407101" duration="927000" />
+      <workItem from="1666064188849" duration="1614000" />
+      <workItem from="1666169858649" duration="122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="db1666ba-4d72-43f0-8171-7c6bf4470621">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/python_projects/project_code/Informer2020-main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="db1666ba-4d72-43f0-8171-7c6bf4470621" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Informer2020_main$data_loader.coverage" NAME="data_loader Coverage Results" MODIFIED="1662186729974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/Informer2020_main$main_informer.coverage" NAME="main_informer Coverage Results" MODIFIED="1660206516764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Informer2020_main$Informer2020_main.coverage" NAME="Informer2020-main Coverage Results" MODIFIED="1660200044917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/Informer2020_main_1_0$execute.coverage" NAME="execute Coverage Results" MODIFIED="1664890905294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Informer2020_main$visual.coverage" NAME="visual Coverage Results" MODIFIED="1650419219812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Informer2020_main$execute.coverage" NAME="execute Coverage Results" MODIFIED="1662944754470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Informer2020_main_1_0$Informer2020_main.coverage" NAME="Informer2020-main Coverage Results" MODIFIED="1664891225799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/Informer2020_main_1_0$encoder.coverage" NAME="encoder Coverage Results" MODIFIED="1664891342186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+  </component>
+</project>

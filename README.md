@@ -39,13 +39,20 @@ Dependencies can be installed using the following command:
 pip install -r requirements.txt
 ```
 
-## Data
-- ### Temperature reanalysis data
-The temperature reanalysis data can be downloaded from the ERA5 official website according to the data set description part of the paper:
-https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-pressure-levels?tab=form
+## Data 
+The experiment utilized temperature observations and their corresponding reanalysis data from three regions: Delhi(India), Shiquanhe(China), Cuona(China). 
+### Temperature observations
+The observations for Delhi can be obtained for free on Kaggle and belongs to Weather Underground (can be downloaded [here](https://www.kaggle.com/datasets/mahirkukreja/delhi-weather-data)).
 
-- ### temperature observations
-given in the file data ./data/tem_pre/
+The observation data for Cuona and Shiquanhe were obtained from the National Data Center of the China Meteorological Administration (can be downloaded [here](https://data.cma.cn/dataService/cdcindex/datacode/A.0012.0001/show_value/normal.html)).
+
+We have downloaded and processed the observations (filled in missing values, etc.) and placed them in the appropriate folder `data/region_name`. The observations processing script can be found at `data/region_name/csv_script.py`.
+
+
+### Temperature reanalysis data
+Temperature reanalysis data for the three regions can be downloaded free of charge from the European Center for Medium-Range Weather Forecasts (ECMWF) website (can be downloaded [here](https://data.cma.cn/dataService/cdcindex/datacode/A.0012.0001/show_value/normal.html)).
+
+
 
 
 
@@ -66,6 +73,6 @@ More parameter information please refer to `main_MTTF.py`.
 #
 
 ## Contact
-If you have any questions, feel free to contact Haoyi Zhou through Email (cy5115236@163.com.com) or Github issues. Pull requests are highly welcomed!
+If you have any questions, feel free to contact Yang Cao through Email (cy5115236@163.com.com) or Github issues. 
 
 
